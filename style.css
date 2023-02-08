@@ -6,42 +6,10 @@ body {
     height: 100%;
     width: 100%;
 }
-*{
-    
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
 
 canvas {
-    margin-top: 200px;
-    transform: scale(1.5);
+    margin-top: 240px;
+    transform: scale(1.8);
 }
-#speedos {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column wrap;
-    gap: 4px;
-    margin-top: 800px;
-    margin-bottom: 800px;
-}
-
-
-#speed_container,
-#rpm_container {
-    height: 160px;
-    width: 1000px;
-    background-color: black;
-}
-
-#speed_gauge,
-#rpm_gauge {
-    height: 156px;
-    margin: 2px;
-    background-color: blueviolet;
-    
-
-    color: white;
-    font-size: 20px;
-}
-
 
