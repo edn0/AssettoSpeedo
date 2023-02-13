@@ -43,7 +43,9 @@ outfile = open( "C:/Users/sausage/Documents/" +"AssettoSpeedo/car_data.json", "w
 
 ### ☄Demo
 
-![GIF de démo](demo.gif)
+<video width="480" height="480" controls>
+  <source src="demo.mov" type="video/mp4">
+</video>
 
 ### TODO
 
