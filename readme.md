@@ -1,5 +1,3 @@
-# Doc Assetto Speedo
-
 ## 🇫🇷 Ton tableau de bord Assetto Corsa pour le web.
 
 Pour faire simple et court, les infos de ta voitures in-game sont rendues dispo sur tout tes appareils. 
@@ -46,7 +44,7 @@ https://user-images.githubusercontent.com/28689584/218537172-d2c0685b-420b-4cf0-
 
 ### TODO
 
-- [ ]  Guide d’installation
+- [x]  Guide d’installation
 - [ ]  Ajout Fuel
 - [ ]  Temps ?
 - [ ]  Ajout d’un panneau drift optionnel ?
