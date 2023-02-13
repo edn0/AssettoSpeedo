@@ -37,7 +37,7 @@ outfile = open( "C:/Users/sausage/Documents/" +"AssettoSpeedo/car_data.json", "w
 
 ### ☄Demo
 
-[demo.mov](demo.mov)
+[demo.gif](demo.gif)
 
 ### TODO
 
