@@ -18,6 +18,11 @@ outfile = open( "C:/Utilisateurs/saucisse/Documents/" +"AssettoSpeedo/car_data.j
 1. Lancez un serveur web (en utilisant l’extension Live Server dans VSCode par exemple), et assurez vous que le fichier .json est bien en ligne en vous rendant à l’adresse suivante [http://127.0.0.1/car_data.json](http://127.0.0.1/car_data.json). Si vous arrivez bien sur le contenu du fichier c’est tout bon.
 2. Votre tableau de bord est dispo sur tout votre réseau, il suffit d’entrer l’IP de votre hôte dans n’importe quel navigateur. 
 
+
+
+
+
+
 ## **🇬🇧 Your Assetto Corsa dashboard on the web.**
 
 To make it short, you can use this to access your car data from outside the game, on all your devices.
