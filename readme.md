@@ -15,9 +15,7 @@ Dans une page web sur ton réseau, tu peux y accéder depuis n’importe quel ap
 outfile = open( "C:/Utilisateurs/saucisse/Documents/" +"AssettoSpeedo/car_data.json", "w")
 ```
 
-1. Lancez un serveur web (en utilisant l’extension Live Server dans VSCode par exemple), et assurez vous que le fichier .json est bien en ligne en vous rendant à l’adresse suivante [http://127.0.0.1/car_data.json](http://127.0.0.1/car_data.json). Si vous arrivez bien sur le contenu du fichier c’est tout bon.
-2. Votre tableau de bord est dispo sur tout votre réseau, il suffit d’entrer l’IP de votre hôte dans n’importe quel navigateur. 
-
+3. Lancez un serveur web (en utilisant l’extension Live Server dans VSCode par exemple), et assurez vous que le fichier .json est bien en ligne en vous rendant à l’adresse suivante [http://127.0.0.1/car_data.json](http://127.0.0.1/car_data.json). Si vous arrivez bien sur le contenu du fichier c’est tout bon. Votre tableau de bord est dispo sur tout votre réseau, il suffit d’entrer l’IP de votre hôte dans n’importe quel navigateur. 
 
 
 ---
@@ -39,7 +37,7 @@ Available on your local network, you can access it from any device able to displ
 outfile = open( "C:/Users/sausage/Documents/" +"AssettoSpeedo/car_data.json", "w")
 ```
 
-1. Launch a web server (using Live Server exention in VSCode for example) and make sure that the .json file is served by browsing to [http://127.0.0.1/car_data.json](http://127.0.0.1/car_data.json) and making sure data shows up.
+3. Launch a web server (using Live Server exention in VSCode for example) and make sure that the .json file is served by browsing to [http://127.0.0.1/car_data.json](http://127.0.0.1/car_data.json) and making sure data shows up. If it does, you can now access your speedometer from any device by entering the host IP in a browser.
 
 ### ☄Demo
 
