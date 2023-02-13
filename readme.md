@@ -1,4 +1,4 @@
-## 🇫🇷 Ton tableau de bord Assetto Corsa pour le web.
+# 🇫🇷 Ton tableau de bord Assetto Corsa pour le web.
 
 Pour faire simple et court, les infos de ta voitures in-game sont rendues dispo sur tout tes appareils. 
 
@@ -20,7 +20,7 @@ outfile = open( "C:/Utilisateurs/saucisse/Documents/" +"AssettoSpeedo/car_data.j
 
 
 
-## **🇬🇧 Your Assetto Corsa dashboard on the web.**
+# **🇬🇧 Your Assetto Corsa dashboard on the web.**
 
 To make it short, you can use this to access your car data from outside the game, on all your devices.
 
