@@ -20,6 +20,7 @@ outfile = open( "C:/Utilisateurs/saucisse/Documents/" +"AssettoSpeedo/car_data.j
 
 
 
+---
 
 
 
